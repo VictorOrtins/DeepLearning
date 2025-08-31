@@ -1,0 +1,8 @@
+tensorflow
+tensorflow_hub
+pandas
+matplotlib
+jinja2
+scikit-learn
+seaborn
+scikeras
